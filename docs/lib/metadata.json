@@ -1,9 +1,9 @@
 {
-  "vaultName": "木森的笔记",
-  "lastExport": 1747885231112,
+  "vaultName": "我的笔记",
+  "lastExport": 1747886087075,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon hide-graph-banner hanging-graph colorful-folder card-layout-open-light theme-light-background-adapt mod-left-split-background-primary-light mod-right-split-background-primary-light mod-root-split-background-primary-light background-underlying-default-light activated-file-default-light mod-left-split-background-primary-dark mod-right-split-background-primary-dark mod-root-split-background-primary-dark background-underlying-default-dark activated-file-default-dark codeblock-style-customize callout-style-customize",
-  "useCustomHeadContent": false,
+  "useCustomHeadContent": true,
   "useCustomFavicon": true,
   "files": [
     "Anki牌组/词语解释/帝喾.md",
@@ -60,6 +60,7 @@
     "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.jpg",
+    "lib/html/custom-head-content.html",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
@@ -93,6 +94,7 @@
     "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.jpg",
+    "lib/html/custom-head-content.html",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
@@ -103,369 +105,375 @@
   ],
   "fileInfo": {
     "Anki牌组/词语解释/帝喾.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 212,
       "exportedPath": "anki牌组/词语解释/帝喾.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/缝缀.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1002,
       "exportedPath": "anki牌组/词语解释/缝缀.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/伏羲.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 223,
       "exportedPath": "anki牌组/词语解释/伏羲.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/鲧.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 206,
       "exportedPath": "anki牌组/词语解释/鲧.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/獾牙.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1464,
       "exportedPath": "anki牌组/词语解释/獾牙.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/马坝人.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1727,
       "exportedPath": "anki牌组/词语解释/马坝人.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/石砧.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 307,
       "exportedPath": "anki牌组/词语解释/石砧.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/石镞.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1178,
       "exportedPath": "anki牌组/词语解释/石镞.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/燧人.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 212,
       "exportedPath": "anki牌组/词语解释/燧人.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/细石器.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 217,
       "exportedPath": "anki牌组/词语解释/细石器.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/有巢.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1564,
       "exportedPath": "anki牌组/词语解释/有巢.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/有穷氏.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 359,
       "exportedPath": "anki牌组/词语解释/有穷氏.html",
       "dependencies": []
     },
     "Anki牌组/词语解释/颛顼.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1404,
       "exportedPath": "anki牌组/词语解释/颛顼.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-1 旧石器时代的人类.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 903,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-1-旧石器时代的人类.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-1-1 北京人.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 617,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-1-1-北京人.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-1-2 山顶洞人.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 923,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-1-2-山顶洞人.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-1-3 河套人.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 376,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-1-3-河套人.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-2 新石器时代的人类.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 275,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-2-新石器时代的人类.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-2-1 细石器文化.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 819,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-2-1-细石器文化.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-2-2 彩陶与黑陶文化.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 388,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-2-2-彩陶与黑陶文化.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-3 古史的传说时代.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 393,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-3-古史的传说时代.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-3-1 黄帝.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1000,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-3-1-黄帝.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-3-2 尧,舜,禹.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1683,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-3-2-尧,舜,禹.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-3-3 夏朝.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 2374,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-3-3-夏朝.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-4 信史时代.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 66,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-4-信史时代.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-4-1 商朝的建立及其兴衰.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 56,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-4-1-商朝的建立及其兴衰.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-4-2 商代的政治和社会.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 0,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-4-2-商代的政治和社会.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-4-3 商人的生活.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 0,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-4-3-商人的生活.html",
       "dependencies": []
     },
     "Anki牌组/中国历史/1、从史前时代到信史时代/1-4-4 文字艺术和科学知识.md": {
-      "modifiedTime": 1747853046223,
+      "modifiedTime": 1747886087075,
       "sourceSize": 0,
       "exportedPath": "anki牌组/中国历史/1、从史前时代到信史时代/1-4-4-文字艺术和科学知识.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1747885231112,
-      "sourceSize": 12931,
+      "modifiedTime": 1747886087075,
+      "sourceSize": 25748,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.jpg": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 125032,
       "exportedPath": "lib/media/favicon.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 1731,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 375612,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 135,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1747884487740,
+      "modifiedTime": 1747886087075,
       "sourceSize": 178,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1747885231112,
+      "modifiedTime": 1747886087075,
       "sourceSize": 15694,
       "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/html/custom-head-content.html": {
+      "modifiedTime": 1747886087075,
+      "sourceSize": 16099,
+      "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     }
   }
