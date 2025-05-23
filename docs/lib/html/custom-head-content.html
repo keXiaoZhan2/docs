@@ -34,72 +34,33 @@
   }
 
   /* ===== 覆盖DataviewJS表格样式 ===== */
-  .el-pre .block-language-dataviewjs div[data-static] > span > div {
-    width: 100% !important;
-    max-width: var(--file-line-width) !important;
-    margin: 1rem auto !important;
-    overflow-x: visible !important;
+  .my_dataview_table {
+    width: 100%;
+    max-width: var(--file-line-width); /* 使用Obsidian的默认行宽变量 */
+    border-collapse: collapse;
+    margin: 0 auto; /* 保持居中 */
+    table-layout: auto; /* 自动调整列宽 */
   }
-
-  .el-pre .block-language-dataviewjs table {
-    min-width: unset !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    border-collapse: collapse !important;
-    margin: 0 auto !important;
-    font-family: inherit !important;
-    font-size: 14px !important;
-    background: white !important;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
-    border-radius: 4px !important;
-    overflow: hidden !important;
+  .my_dataview_table tr th:first-child {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    text-align: left;
+    background: #f5f5f5;
+    word-break: break-word;
+    width: 30%; /* 字段列相对宽度 */
   }
-
-  .el-pre .block-language-dataviewjs th {
-    min-width: unset !important;
-    padding: 12px 16px !important;
-    border: 1px solid #e0e0e0 !important;
-    text-align: left !important;
-    background: #f7f7f7 !important;
-    font-weight: 600 !important;
+  .my_dataview_table tr th:last-child {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    text-align: left;
+    background: #f5f5f5;
+    word-break: break-word;
+    width: 70%; /* 记录列相对宽度 */
   }
-
-  .el-pre .block-language-dataviewjs td {
-    padding: 12px 16px !important;
-    border: 1px solid #e0e0e0 !important;
-    vertical-align: top !important;
-    background: white !important;
-    max-width: unset !important;
-  }
-
-  /* 字段列样式 */
-  .el-pre .block-language-dataviewjs td:first-child {
-    white-space: nowrap !important;
-    width: 30% !important;
-    min-width: 120px !important;
-  }
-
-  /* 记录列样式 */
-  .el-pre .block-language-dataviewjs td:nth-child(2) {
-    word-break: break-word !important;
-    width: 70% !important;
-  }
-
-  /* 链接样式 */
-  .el-pre .block-language-dataviewjs a.cm-underline {
-    color: var(--text-accent) !important;
-    text-decoration: underline !important;
-    text-underline-offset: 2px !important;
-  }
-
-  /* 响应式调整 */
-  @media (max-width: 768px) {
-    .el-pre .block-language-dataviewjs td:first-child,
-    .el-pre .block-language-dataviewjs td:nth-child(2) {
-      width: 100% !important;
-      display: block !important;
-      white-space: normal !important;
-    }
+  .my_dataview_table tr td {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    word-break: break-word;
   }
   /* ============================================================ */
 </style>
