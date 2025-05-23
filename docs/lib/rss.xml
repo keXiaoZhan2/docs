@@ -1,4 +1,78 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://kexiaozhan2.github.io/docs/</link><image><url>.\https:\\kexiaozhan2.github.io\docs\lib\media\favicon.jpg</url><title>My Notes</title><link>https://kexiaozhan2.github.io/docs/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 May 2025 03:47:13 GMT</lastBuildDate><atom:link href=".\https:\\kexiaozhan2.github.io\docs\lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 May 2025 03:47:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://kexiaozhan2.github.io/docs/</link><image><url>.\https:\\kexiaozhan2.github.io\docs\lib\media\favicon.jpg</url><title>My Notes</title><link>https://kexiaozhan2.github.io/docs/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 May 2025 03:52:38 GMT</lastBuildDate><atom:link href=".\https:\\kexiaozhan2.github.io\docs\lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 May 2025 03:52:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[元数据]]></title><description><![CDATA[ 
+ <br><br>游戏数值百宝书：成为优秀的数值策划
+
+<br><img alt="游戏数值百宝书：成为优秀的数值策划" src="https://cdn.weread.qq.com/weread/cover/60/YueWen_40795197/t6_YueWen_40795197.jpg" referrerpolicy="no-referrer" style="width: 200px; max-width: 100%;">
+<br>书名： 游戏数值百宝书：成为优秀的数值策划
+<br>作者： 袁兆阳
+<br>简介： 本书是游戏行业首本以游戏研发路径为顺序，以数值策划为视角，剖析游戏数值设计的书籍。无论何种游戏，数值的构建都会经历前期准备、战斗数值、经济数值、复盘和商业化这5 个标准步骤，本书的前6 章非常适合游戏行业相关从业者、独立游戏制作人理解和学习游戏数值的制作和设计理念。随着游戏行业的发展和成熟，游戏数值的设计也趋于规范和标准化，本书的后两章则为未来“流水线”式数值设计的规范化提供了更多的思路和设计标准。希望本书可以帮助每一位有梦想的“游戏人”一一让游戏数值不再成为制作游戏的瓶颈，让美好的构想可以完美落地，最终成功制作出真正的“精品游戏”。
+<br>出版时间： 2021-08-01 00:00:00
+<br>ISBN： 9787121417535
+<br>分类： 计算机-计算机综合
+<br>出版社： 电子工业出版社
+<br>PC地址：<a rel="noopener nofollow" class="external-link" href="https://weread.qq.com/web/reader/61b32380726e7c3d61b88e6" target="_blank">https://weread.qq.com/web/reader/61b32380726e7c3d61b88e6</a>
+
+<br><br><br>
+📌 游戏数值流程化的5个步骤：准备工作、战斗数值、经济数值、数值复盘、商业化<br>
+⏱ 2025-03-31 19:19:38 
+<br><br>
+📌 图1-1　游戏的CIDC<br>
+⏱ 2025-03-31 19:52:03 
+<br>
+📌 游戏三维则是从设计者角度对游戏进行全局规划，也汇总了游戏数值层面的整体规划，比如游戏中所需要包含的养成模块有哪些，每一个养成模块自身的定位和养成感受是什么样的，这些都需要设计师在制作游戏之前尽可能地展开想象，去描绘游戏最终的样貌。<br>
+⏱ 2025-03-31 19:51:51 
+<br><br>
+📌 就是我们需要为游戏中的主角定义一些有意义的属性，使用战斗框架让这些属性串联起来，设计出各种不同的职业和成长模块，作为主角属性成长的载体，最后根据主角的成长阶段构想不同强度的敌人，以此来检验主角成长的效果<br>
+⏱ 2025-03-31 19:53:37 
+<br>
+📌 图1-2　战斗数值的关系<br>
+⏱ 2025-03-31 19:53:51 
+<br><br>
+📌 经济就是围绕产出和消耗两个端口展开的，理论上最完美的经济是永恒的产出等于无尽的消耗。如果产出端变小，就会引起链条缩小，从而带来通缩；如果消耗端变小，就会引起资源堆积，从而带来通胀。这与现实经济相同，经济数值所要做的就是平衡产出和消耗之间的关系，让整个循环过程平稳且持久（见图1-3）。[插图]<br>
+⏱ 2025-03-31 19:57:00 
+<br><br>
+📌 完成了游戏的战斗数值和经济数值两大模块后，设计层面的内容也可以告一段落了。那么问题来了，如何检验它们的平衡和联通就成为这个阶段最重要的工作。一般我们会进行成长复盘、战斗复盘和经济复盘，以检验战斗数值和经济数值是否达到了设计的预期，也通过这些步骤去扮演玩家模拟玩家游戏时所遇到的“战斗体验”，以及这个虚拟世界中玩家所面临的“生存压力”。<br>
+⏱ 2025-03-31 19:59:09 
+<br><br>
+📌 将写作长篇小说对标游戏数值策划工作，准备步骤大概包括选择游戏类型、游戏题材，梳理游戏的核心战斗，枚举游戏的核心成长，编纂战斗和成长之间的关系网，设定好游戏的经济脉络。这些可以概括为游戏类型、游戏题材、游戏三维，也是本章所述内容。而我们在1.1节介绍时加入了目标产品，是为了帮助我们学习和了解同类型游戏产品的制作方法，站在前辈的臂膀之上进行创作，也能让自身的游戏更优秀、更精致。<br>
+⏱ 2025-03-31 20:00:41 
+<br><br>]]></description><link>.\https:\\kexiaozhan2.github.io\docs\wechatreading\计算机\游戏数值百宝书：成为优秀的数值策划-袁兆阳.html</link><guid isPermaLink="false">WeChatReading/计算机/游戏数值百宝书：成为优秀的数值策划-袁兆阳.md</guid><dc:creator><![CDATA[袁兆阳]]></dc:creator><pubDate>Mon, 19 May 2025 08:43:58 GMT</pubDate><enclosure url="https://cdn.weread.qq.com/weread/cover/60/YueWen_40795197/t6_YueWen_40795197.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://cdn.weread.qq.com/weread/cover/60/YueWen_40795197/t6_YueWen_40795197.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[元数据]]></title><description><![CDATA[ 
+ <br><br>漫画科普：比知识有趣的冷知识
+
+<br><img alt="漫画科普：比知识有趣的冷知识" src="https://wfqqreader-1252317822.image.myqcloud.com/cover/34/32490034/t6_32490034.jpg" referrerpolicy="no-referrer" style="width: 200px; max-width: 100%;">
+<br>书名： 漫画科普：比知识有趣的冷知识
+<br>作者： 锄见
+<br>简介： 海量知识，包罗万象：从生活日常的细节到地球本身的历史，从科技发展的秘密到广博自然的的奥妙，涉猎不同领域，每一页内容都是干货，每一则知识都带来新的思考。多种形式，打破枯燥：突破文字描述为主的科普模式，通过画面进行知识解说，插图、漫画、立绘……数百幅不同形式的图画将枯燥的科普知识灵活展现。还增附作者创作手记与冷知识小剧场，颠覆知识科普制式。这是一套启发思维的科普类图书，也是一套画面精良的知识绘本，书中通过新奇有趣的漫画内容，将鲜为人知的冷知识绘制出来，是一个包罗万象的知识合集。
+<br>出版时间： 2019-09-17 00:00:00
+<br>ISBN： 9787557020316
+<br>分类： 科学技术-科学科普
+<br>出版社： 广东旅游出版社
+<br>PC地址：<a rel="noopener nofollow" class="external-link" href="https://weread.qq.com/web/reader/04f32a4071efc23204f038d" target="_blank">https://weread.qq.com/web/reader/04f32a4071efc23204f038d</a>
+
+<br><br><br>
+📌 有科学家甚至认为现在的光速更像是被某种更高级的宇宙文明故意限制的，因为光速一旦被限制，文明的行动范围也就基本被限制住了。<br>
+⏱ 2021-04-11 20:20:59 
+<br><br>]]></description><link>.\https:\\kexiaozhan2.github.io\docs\wechatreading\科学技术\漫画科普：比知识有趣的冷知识-锄见.html</link><guid isPermaLink="false">WeChatReading/科学技术/漫画科普：比知识有趣的冷知识-锄见.md</guid><dc:creator><![CDATA[锄见]]></dc:creator><pubDate>Mon, 19 May 2025 08:44:16 GMT</pubDate><enclosure url="https://wfqqreader-1252317822.image.myqcloud.com/cover/34/32490034/t6_32490034.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/34/32490034/t6_32490034.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[元数据]]></title><description><![CDATA[ 
+ <br><br>钢铁是怎样炼成的
+
+<br><img alt="钢铁是怎样炼成的" src="https://wfqqreader-1252317822.image.myqcloud.com/cover/592/23303592/t6_23303592.jpg" referrerpolicy="no-referrer" style="width: 200px; max-width: 100%;">
+<br>书名： 钢铁是怎样炼成的
+<br>作者： 【苏】奥斯特洛夫斯基
+<br>简介： 奥斯特洛夫斯基的长篇小说《钢铁是怎样炼成的》是苏联社会主义文学中一部最辉煌的名著，已成为世界文学中的经典作。它被译介到中国半个多世纪以来一直盛传不衰。它被视为生活教科书，人生的路标和精神补品，被一代代读者承传着。《钢铁是怎样炼成的》（1933）是作者根据自己亲身经历写成的一部优秀小说。主人公保尔·柯察金所走过的道路，反映了苏联第一代革命青年不怕困难、艰苦奋斗、勇于胜利的大无畏精神，鼓舞了一代又一代有志青年去实现自己的理想。
+<br>出版时间： 2015-03-10 00:00:00
+<br>ISBN： 9787020102716
+<br>分类： 文学-外国文学
+<br>出版社： 人民文学出版社
+<br>PC地址：<a rel="noopener nofollow" class="external-link" href="https://weread.qq.com/web/reader/38b32e80716395a838bebd7" target="_blank">https://weread.qq.com/web/reader/38b32e80716395a838bebd7</a>
+
+<br><br><br>
+📌 “人最宝贵的是生命。生命每个人只有一次。人的一生应当这样度过：当回忆往事的时候，他不会因为虚度年华而悔恨，也不会因为碌碌无为而羞愧；在临死的时候，他能够说：‘我的整个生命和全部精力，都已经献给了世界上最壮丽的事业——为人类的解放而斗争。'”<br>
+⏱ 2023-04-25 21:34:41 
+<br><br>
+📌 那些刚换了班的洗家什的女工们，满有兴趣地听着两个孩子的谈话。那孩子的盛气凌人的声音和寻衅的态度把保尔激怒了。他向自己的接班人逼近一步，本想狠狠地给他一个耳光，只是怕头一天上工就给开除了，才没有动手。他气得满脸发紫，说：<br>
+“火气别太大，别吓唬人，要不，你决不会有好下场！明早我七点来。要打架，我奉陪；你想试一试，那就请！”<br>
+对方向着大锅倒退了一步，吃惊地瞧着怒气冲冲的对手。<br>
+⏱ 2023-04-25 21:47:29 
+<br><br>]]></description><link>.\https:\\kexiaozhan2.github.io\docs\wechatreading\文学\钢铁是怎样炼成的-【苏】奥斯特洛夫斯基.html</link><guid isPermaLink="false">WeChatReading/文学/钢铁是怎样炼成的-【苏】奥斯特洛夫斯基.md</guid><dc:creator><![CDATA[【苏】奥斯特洛夫斯基]]></dc:creator><pubDate>Mon, 19 May 2025 08:44:08 GMT</pubDate><enclosure url="https://wfqqreader-1252317822.image.myqcloud.com/cover/592/23303592/t6_23303592.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/592/23303592/t6_23303592.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br><br><img src="https://cdn.jsdelivr.net/gh/KeXiaoZhan/Images@main/obImgs/index.png" referrerpolicy="no-referrer"><br>
 <img src="https://cdn.jsdelivr.net/gh/KeXiaoZhan/Images@main/obImgs/index.png" referrerpolicy="no-referrer">]]></description><link>.\https:\\kexiaozhan2.github.io\docs\index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Fri, 23 May 2025 03:40:40 GMT</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/KeXiaoZhan/Images@main/obImgs/index.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://cdn.jsdelivr.net/gh/KeXiaoZhan/Images@main/obImgs/index.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[帝喾]]></title><description><![CDATA[<a class="tag" href="https://kexiaozhan2.github.io/docs/?query=tag:flashcard" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#flashcard</a> <a class="tag" href="https://kexiaozhan2.github.io/docs/?query=tag:User" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#User</a> <a class="tag" href="https://kexiaozhan2.github.io/docs/?query=tag:DeepSeek" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#DeepSeek</a> 
  <br><br>我的备注：<br><br><br><a href=".\https:\\kexiaozhan2.github.io\docs?query=tag:User" class="tag" target="_blank" rel="noopener nofollow">#User</a> 帝喾 是什么，请以标准的现代汉语词典形式，以及出处等解释这个名词。<br><a href=".\https:\\kexiaozhan2.github.io\docs?query=tag:DeepSeek" class="tag" target="_blank" rel="noopener nofollow">#DeepSeek</a> : 帝喾（Dì Kù）  <br>现代汉语词典式释义：<br>
